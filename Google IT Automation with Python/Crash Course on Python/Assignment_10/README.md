@@ -1,1 +1,1 @@
-This folder will contain answers of all sub questions present in tenth assignment.
+Final Project is explained in this folder.
