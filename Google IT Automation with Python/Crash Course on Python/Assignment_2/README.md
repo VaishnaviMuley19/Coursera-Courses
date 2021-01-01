@@ -1,1 +1,1 @@
-This folder will contain all answers of sub questions present in second assignment.
+This folder will contain answers of all sub questions present in second assignment.
